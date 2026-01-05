@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぷろふぃ〜る",
+  "base_artist": "のんふぃく！",
+  "createdAt": "2026-01-05T04:37:39.595978Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぷろふぃ〜る",
+      "artist": "のんふぃく!",
+      "has_synced": false,
+      "path": "select/pl_01_ぷろふぃ〜る_のんふぃく!.txt"
+    }
+  ]
+}
